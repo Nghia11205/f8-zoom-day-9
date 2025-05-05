@@ -32,7 +32,7 @@ thead{
 }
 .avatar{
     position: relative;
-    --icon:"\f00c";
+    --icon:'\f058';
 }
 .avatar img{
     width: 30px;
